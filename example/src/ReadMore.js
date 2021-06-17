@@ -561,7 +561,7 @@ const ReadMore = ({
           <TextComponent
             {...additionalProps}
             {...restProps}
-            onPress={toggle}
+            // onPress={toggle}
             style={seeLessStyle}>
             {hiddenTextLinesWithSeeLess.length > lines.length ? '\n' : ' '}
             {seeLessText}
