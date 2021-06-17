@@ -1,0 +1,70 @@
+{
+  "_from": "@fawazahmed/react-native-read-more",
+  "_id": "@fawazahmed/react-native-read-more@2.1.1",
+  "_inBundle": false,
+  "_integrity": "sha512-Vd5GAAwRt3TnZh6fdZ35EqRDNR98Z7k/dd2/r/haU2KVQfFBWgg2U7j/WDJ05KAqsng1o/jkY+t7mpAtoX5E6w==",
+  "_location": "/@fawazahmed/react-native-read-more",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@fawazahmed/react-native-read-more",
+    "name": "@fawazahmed/react-native-read-more",
+    "escapedName": "@fawazahmed%2freact-native-read-more",
+    "scope": "@fawazahmed",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@fawazahmed/react-native-read-more/-/react-native-read-more-2.1.1.tgz",
+  "_shasum": "e175744dc7a326176e19566d9efea4a4f04e46cb",
+  "_spec": "@fawazahmed/react-native-read-more",
+  "_where": "D:\\Rox\\Desktop\\G360\\Coop\\coop-mobile",
+  "author": {
+    "name": "Fawaz Ahmed",
+    "email": "fawaz_ahmed@live.com"
+  },
+  "bugs": {
+    "url": "https://github.com/fawaz-ahmed/react-native-read-more/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  },
+  "deprecated": false,
+  "description": "A simple react native library to show large blocks of text in a condensed manner with the ability to collapse and expand.",
+  "homepage": "https://github.com/fawaz-ahmed/react-native-read-more#readme",
+  "keywords": [
+    "react-native-read-more",
+    "react-native-component",
+    "react-native",
+    "read",
+    "more",
+    "less",
+    "text",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "ui"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@fawazahmed/react-native-read-more",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fawaz-ahmed/react-native-read-more.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.1.1"
+}
